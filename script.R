@@ -11,7 +11,7 @@
 
 #install.packages('data.table') # to install the package
 
-library(data.table) # to load the package into this session
+library(data.table) # to load the package into this session.
 
 
 # # # # # # # # # # # # 
